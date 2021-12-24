@@ -1,0 +1,66 @@
+ [
+    {
+        "id":1,
+        "clicked":false,
+        "name":"Captin America",
+        "image":"https://img.favpng.com/15/13/12/marvel-avengers-alliance-marvel-ultimate-alliance-2-captain-america-hulk-iron-man-png-favpng-vA4QPARrsALaUx93e8Y2mdpd1_t.jpg"
+
+    },
+    {
+        "id":2,
+        "clicked":false,
+        "name":"Thor",
+        "image":"https://toppng.com/uploads/preview/free-icons-png-thor-marvel-heroes-11563225625fdn6ofdhdk.png"
+
+    },
+    {
+        "id":3,
+        "clicked":false,
+        "name":"Ironman",
+        "image":"https://www.pngall.com/wp-content/uploads/4/Marvel-Transparent.png"
+
+    },
+    {
+        "id":4,
+        "clicked":false,
+        "name":"Hulk",
+        "image":"https://www.nicepng.com/png/detail/433-4339720_avengers-hulk-png-wwwpixsharkcom-images-galleries-marvel-characters.png"
+
+    },
+    {
+        "id":5,
+        "clicked":false,
+        "name":"Spiderman",
+        "image":"https://img.favpng.com/9/12/8/spider-man-marvel-comics-superhero-comic-book-png-favpng-s58NAS8UyZ01VBzsGeLzj3b9i_t.jpg"
+
+    },
+    {
+        "id":6,
+        "clicked":false,
+        "name":"Captin Marvel",
+        "image":"https://i.pinimg.com/736x/f8/ff/e0/f8ffe02ebe7c8e119e758d569df79fcf.jpg"
+
+    },
+    {
+        "id":7,
+        "clicked":false,
+        "name":"Black Panther",
+        "image":"https://www.pngkit.com/png/detail/64-641861_marvel-black-panther-png.png"
+
+    },
+    {
+        "id":8,
+        "clicked":false,
+        "name":"Antman",
+        "image":"https://img.favpng.com/24/0/2/marvel-avengers-alliance-ant-man-spider-man-hank-pym-hulk-png-favpng-e97R100i7QZ8AtUrP3SsgbdJg_t.jpg"
+
+    },
+    {
+        "id":9,
+        "clicked":false,
+        "name":"Deadpool",
+        "image":"https://e1.pngegg.com/pngimages/496/570/png-clipart-deadpool-marvel-deadpool-illustration-thumbnail.png"
+
+    }
+    
+ ]
