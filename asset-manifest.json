@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Card-Memory-Game/static/css/main.3f3be395.css",
+    "main.js": "/Card-Memory-Game/static/js/main.8c81ad00.js",
+    "static/js/787.31370507.chunk.js": "/Card-Memory-Game/static/js/787.31370507.chunk.js",
+    "index.html": "/Card-Memory-Game/index.html",
+    "main.3f3be395.css.map": "/Card-Memory-Game/static/css/main.3f3be395.css.map",
+    "main.8c81ad00.js.map": "/Card-Memory-Game/static/js/main.8c81ad00.js.map",
+    "787.31370507.chunk.js.map": "/Card-Memory-Game/static/js/787.31370507.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f3be395.css",
+    "static/js/main.8c81ad00.js"
+  ]
+}
